@@ -1,2 +1,36 @@
-# Online-Book-Store
-Online Book Store Project is a web-based application in Java, developed mainly for bookstores and shops to computerize the book purchasing process. This project aims at creating an efficient and reliable online book selling and buying platform. After the implementation of project, one can inquire and buy any book available in the store from anywhere.
+# Console Based Online Book Store
+	- Buy Book, Update Book Availability, Customer Bill.
+
+# Technologies used:
+- Java
+- Maven
+- JDBC
+- MySQL
+- JUnit
+
+# Developed a console based application, which has two modules
+
+# Admin functionalities
+- Admin Login
+- View Books Available
+- Add Books
+- Remove Books 
+
+# Employee functionalities
+- Employee Login
+- View Books Available
+- Add Books to Cart
+- Remove Books from Cart
+- View Cart
+- Checkout and Show Bill
+
+# Dependencies in Online Book Store
+- Maven
+- JDBC driver
+- Junit
+
+
+# Tools used
+- Eclipse
+- JDK 1.8
+- MySQL
